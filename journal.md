@@ -1,0 +1,11 @@
+week nine journal
+
+archeron1148
+
+>In the specific case of using an R package as a research compendium, you can benefit from the quality control mechanisms required to successfully build an R package. By organizing files into an R package, you follow conventions that save you time thinking about the best way to organize your project. Writing a function saves us from introducing errors that often result from repeated copying and pasting of code. This is because you can type one line of code (the name of your function) that calls hundreds of lines of code (your function).
+
+Reading over this took me a little bit offguard because it implies that there are some people out there who are writing code but don't know what a function is. Without meaning to sound elitist, if you don't know what a function is I'm not sure you should be writing code professionally: it's such an essential concept/technique of programming. The take-away here is just how important it is (and I'm sure this importance will continue to grow) to teach foundational programming skills in archaeology (because archaeologists can make use of scripts for their analyses).
+
+>I am willing to bet that the idea of ‘replication’ has never cropped up in any of your other history or GRS classes. I want you to reflect on the readings and your work this week in the context of those other classes. What might all of this imply for you as history or humanities students? Discuss this in the context of your wins/fails for this week.
+
+I found the division between replicability and reproducability interesting and logical, as, when applying the scientific idea of reproduction to questions which do not deal with precisely measurable, discrete quantities it falls apart. The discrete form of a specific archaeological phenomena is something which is impossible to duplicate: there is only one Rosetta Stone, an artifact cannot be dug up twice. Nessesarily then, the same precise method cannot be used to produce the same conclusions. However, when we are transforming quantitative data it doesnt destroy the original, and because computers are deterministic machines, replicating an 'experiment' is as simple as copying over the code and hitting run (mostly). I'm not totally sure what else to say for this week :).
