@@ -43,3 +43,4 @@ ggplot(dorsal_cortex_proportion, aes(SITE, dorsal_proportion)) +
   geom_boxplot()
 
 ###after a quick glance at the article compared with the plot produced by this script, it looks like Hope was trying to recreate figure 5
+###the second figure does not match, though I cannot tell why
