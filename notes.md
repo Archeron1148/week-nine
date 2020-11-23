@@ -69,3 +69,9 @@ https://digiarch.netlify.app/data/Perry.et.al.2019_SharedDigitalExperiences_PreP
     Comparably, a Turkish participant, reflecting on his original object, described that ‘The bear stamp made me feel powerful.’ He later noted, ‘I was really committed to the bear stamp’ because he drew something on it and it became his own, leaving him regretful to say goodbye.
     Second, the experience relied on a relatively simple set of strategies to facilitate group-based meaning-making, which are arguably replicable in other contexts. These include (1) the pre-visit quiz, which profiles visitors,linking their present day personality to one of the past; (2) the visitor-selected object,  which  is  connected  to  users’  personalities  and  is  personalised  by  them  via  physical modification/decoration; (3) embodied group exploration of a concept (in this case, egalitarianism) while onsite, where the purpose is not to force factual information on participants, nor to demand that they explicitly  imagine  themselves  as  inhabitants  of  Neolithic  Çatalhöyük,  but  rather  to  collaboratively perform actions in the present in ways that may seem unfamiliar to them. 
     As one participant described, ‘I connected with a human being on another level, that I’d never met before and I also appreciated people a lot differently.’ Such collaborative digital experiences can encourage participants not merely to identify with the past, but to rethink their place in the present and future, imagining the world and its inhabitants in a more complex and malleable fashion. 
+
+other notes
+
+    Ben Marwick et al have made the argument that an extremely effective way of teaching archaeology data science is to have students try to replicate the findings of archaeologists from the published journal articles. 
+        -kinda like in science
+    
